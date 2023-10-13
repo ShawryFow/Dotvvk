@@ -44,9 +44,9 @@ await conn.sendMessage(m.chat, {
   "containsAutoReply": true,  
   "mediaType": 1,   
   "thumbnail": fotogodzx,  
-  "mediaUrl": `https://chat.whatsapp.com/BmsElfLOkC6DYTo4rqaQcf`,  
-  "sourceUrl": `https://chat.whatsapp.com/BmsElfLOkC6DYTo4rqaQcf`  
-  }  
+  "mediaUrl": `https://chat.whatsapp.com/BmsElfLOkC6DYTrqaQcf`,  
+  "sourceUrl": `https://chat.whatsapp.com/BmsElfLOkC6DYTo4rqcf`  
+  }
   }  
   }, { quoted: m })
 }  
@@ -57,7 +57,7 @@ var completomenu = `*╭━━❍𝐁𝐨𝐭𝐀𝐱𝐱𝐜𝒕❍━━╮*
  *┃╭━━━━━━━━━━━━━━━━╾•* 
  *┃┃  ❍ ${ucapan()} ❍* 
  *┃┣━━━━━━━━━━━━━━━━╾•* 
- *┃┃ ⋄ NUMERO DEL CREADOR: wa.me/528442286089 (𝐍𝐎 𝐁𝐎𝐓)* 
+ *┃┃ ⋄ NUMERO DEL CREADOR: wa.me/528123422244 (𝐍𝐎 𝐁𝐎𝐓)* 
  *┃┃ ⋄ VERSION » ${vs}* 
  *┃┃ ⋄ FECHA » ${week}, ${date}* 
  *┃┃ ⋄ TIEMPO ACTIVO » ${uptime}* 
